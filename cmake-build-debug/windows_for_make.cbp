@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="windows_for_make"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="windows_for_make">
+				<Option output="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/windows_for_make.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 windows_for_make"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="windows_for_make/fast">
+				<Option output="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/windows_for_make.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 windows_for_make/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/Basic.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/evalstate.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/evalstate.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/exp.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/exp.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/parser.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/parser.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/program.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/program.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/statement.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/statement.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/error.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/error.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/simpio.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/simpio.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/strlib.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/strlib.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.cpp">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.h">
+			<Option target="windows_for_make"/>
+		</Unit>
+		<Unit filename="C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

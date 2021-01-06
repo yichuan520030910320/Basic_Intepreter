@@ -1,0 +1,152 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/Basic.cpp
+stdlib.h
+-
+cctype
+-
+iostream
+-
+string
+-
+exp.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/exp.h
+parser.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/parser.h
+program.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/program.h
+statement.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/statement.h
+../StanfordCPPLib/error.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/error.h
+../StanfordCPPLib/tokenscanner.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.h
+sstream
+-
+../StanfordCPPLib/simpio.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/simpio.h
+../StanfordCPPLib/strlib.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/strlib.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/Basic/statement.cpp
+string
+-
+statement.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/statement.h
+../StanfordCPPLib/error.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/error.h
+../StanfordCPPLib/tokenscanner.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/error.h
+string
+-
+exception
+-
+private/main.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/private/main.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/foreach.h
+iterator
+-
+map
+-
+cstddef
+-
+cstring
+-
+ios
+-
+fstream
+-
+sstream
+-
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/map.h
+cstdlib
+-
+foreach.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/foreach.h
+stack.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/stack.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/private/main.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/private/tokenpatch.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/simpio.h
+string
+-
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/stack.h
+vector.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/vector.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/strlib.h
+iostream
+-
+string
+-
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.h
+iostream
+-
+string
+-
+private/tokenpatch.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/private/tokenpatch.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/vector.h
+iterator
+-
+iostream
+-
+sstream
+-
+string
+-
+foreach.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/foreach.h
+strlib.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/strlib.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/evalstate.h
+string
+-
+../StanfordCPPLib/map.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/map.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/exp.h
+evalstate.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/evalstate.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/parser.h
+string
+-
+exp.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/exp.h
+../StanfordCPPLib/tokenscanner.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/StanfordCPPLib/tokenscanner.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/program.h
+map
+-
+string
+-
+statement.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/statement.h
+
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/statement.h
+evalstate.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/evalstate.h
+exp.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/exp.h
+parser.h
+C:/Users/lenovo/Desktop/OOP2-Basic (1)/windows_for_make/basic/parser.h
+
